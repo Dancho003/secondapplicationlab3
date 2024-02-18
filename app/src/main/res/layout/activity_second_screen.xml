@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:text="Daniyar's career at Bershka has been nothing short of inspiring and impactful. From the moment he joined the dynamic fashion retailer, he brought a unique blend of creativity, dedication, and a keen eye for trends.
+Starting as a Sales Associate, Daniyar quickly demonstrated his passion for customer service and his ability to stay attuned to the ever-evolving world of fashion. His friendly demeanor and product knowledge made him a trusted advisor for customers seeking the latest styles and trends.
+As Daniyar continued to excel in his role, he caught the attention of the management team, earning promotions and taking on more responsibilities. His commitment to excellence and his willingness to go above and beyond set him apart in the fast-paced environment of Bershka.
+Whether it was assisting with merchandising, contributing to visual displays, or actively participating in team meetings, Daniyar consistently showcased his strong work ethic and team spirit. His enthusiasm for the brand and dedication to creating a positive shopping experience for customers made him a valuable asset to the Bershka family.
+As Daniyar's career progressed, so did his impact on the brand. He embraced challenges with a positive attitude and demonstrated a natural leadership ability that resonated with his colleagues. His insights into consumer preferences and market trends contributed to the overall success of the store.
+Daniyar's journey at Bershka is not just a story of professional growth; it's a testament to his passion for fashion and his commitment to delivering an exceptional customer experience. Whether interacting with customers on the sales floor or collaborating with teammates behind the scenes, Daniyar has left an indelible mark on the Bershka brand, making it a richer and more vibrant place for all who work alongside him."
+            android:textColor="#ff0000"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+    </ScrollView>
+</LinearLayout>
